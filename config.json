@@ -21,7 +21,7 @@
                 }									
 			],
           "outArguments": [],
-          "url": "https://customactivitysfmc234/journeybuilder/execute",
+          "url": "https://nodejsappcustomapp/journeybuilder/execute",
            "verb": "POST",
             "body": "",
             "header": "",
@@ -31,24 +31,24 @@
         }
     },
     "configurationArguments": {
-      "applicationExtensionKey": "87990b6c-98bd-4166-b5f4-da1ff0329d03",
+      "applicationExtensionKey": "860adffd-7a8e-4584-b2d8-284c1dba2b47",
       "save": {
-        "url": "https://customactivitysfmc234/journeybuilder/save",
+        "url": "https://nodejsappcustomapp/journeybuilder/save",
           "verb": "POST",
         "useJwt": true
        },
        "publish": {
-        "url": "https://customactivitysfmc234/journeybuilder/publish",
+        "url": "https://nodejsappcustomapp/journeybuilder/publish",
            "verb": "POST",
         "useJwt": true
        },
       "stop": {
-        "url": "https://customactivitysfmc234/journeybuilder/stop",
+        "url": "https://nodejsappcustomapp/journeybuilder/stop",
            "verb": "POST",
         "useJwt": true
       },
       "validate": {
-        "url": "https://customactivitysfmc234/journeybuilder/validate",
+        "url": "https://nodejsappcustomapp/journeybuilder/validate",
         "verb": "POST",
         "useJwt": true
       }
